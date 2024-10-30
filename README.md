@@ -1,4 +1,4 @@
-## Hi there 👋
+## Web Developer in Japan 🍊
 
 <!--
 **kengo-grafru/kengo-grafru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

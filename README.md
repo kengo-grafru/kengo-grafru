@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kengo-grafru&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kengo-grafru)
+
+
+### My Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,alpinejs,astro,svelte,lit,react,nextjs,vue,nuxtjs,wordpress,php,laravel,mysql,aws,figma" /><br>
+
+</p>
